@@ -1,5 +1,5 @@
 // this binding, Assumption: scope
-// 4 rules: (Likely based on test cases)
+// 4 rules: (Likely based on use cases)
 // How the function is called
 
 function foo() {
