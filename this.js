@@ -1,4 +1,4 @@
-// this binding, Assumption: scope
+// this binding, Assumption: scope and valueType referenceType
 // 4 rules: (Likely based on use cases)
 // How the function is called
 
